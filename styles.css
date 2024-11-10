@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000;
+    color: #77ec0a;
+    font-family: Arial, sans-serif;
+
+
+      font-family: "Doto", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-style: normal;
+    
+    }
+
+
+
+.clock {
+    font-size: 48px;
+    background: #111111;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(56, 54, 54, 0.9);
+}
